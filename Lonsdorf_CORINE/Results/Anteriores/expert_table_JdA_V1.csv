@@ -1,0 +1,197 @@
+code,description,nesting_suitability_small,nesting_suitability_big,foraging_suitability_small_season_1,foraging_suitability_big_season_1,fl_resource_weight_season_1,foraging_suitability_small_season_2,foraging_suitability_big_season_2,fl_resource_weight_season_2,foraging_suitability_small_season_3,foraging_suitability_big_season_3,fl_resource_weight_season_3
+111,Formaciones adehesadas de quercíneas y otras frondosas,0.9,0.9,0.9,0.8,0.7,0.7,0.6,0.2,0.2,0.2,0.1
+121,Bosques mediterráneos esclerófilos densos,0.7,0.7,0.7,0.7,0.7,0.5,0.5,0.2,0.2,0.2,0.1
+122,Bosques mediterráneos esclerófilos dispersos,0.8,0.8,0.8,0.8,0.7,0.6,0.6,0.2,0.3,0.3,0.1
+131,Bosques caducifolios densos,0.7,0.7,0.6,0.7,0.7,0.4,0.4,0.2,0.2,0.2,0.1
+132,Bosques caducifolios dispersos,0.8,0.8,0.7,0.8,0.7,0.5,0.5,0.2,0.2,0.2,0.1
+141,Bosques de coníferas densas,0.7,0.7,0.6,0.7,0.7,0.4,0.4,0.2,0.2,0.2,0.1
+142,Bosques de coníferas dispersas,0.8,0.8,0.8,0.8,0.7,0.4,0.4,0.2,0.2,0.2,0.1
+151,Cultivos forestales y otras plantaciones arbóreas densas,0.7,0.7,0.6,0.6,0.7,0.4,0.4,0.2,0.2,0.2,0.1
+152,Cultivos forestales y otras plantaciones arbóreas dispersas,0.7,0.7,0.7,0.7,0.7,0.4,0.4,0.2,0.2,0.2,0.1
+221,Matorral húmedo (nivel 3),0.8,0.8,0.8,0.8,0.7,0.7,0.7,0.2,0.2,0.2,0.1
+222,Matorral húmedo con arbolado aislado,0.8,0.8,0.8,0.8,0.7,0.7,0.7,0.2,0.2,0.2,0.1
+231,Matorral árido (nivel 3),0.8,0.8,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+232,Matorral árido con arbolado aislado,0.8,0.8,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+241,Matorral esclerófilo (nivel 3),0.8,0.8,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+242,Matorral esclerófilo con arbolado aislado,0.8,0.8,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+311,Lastonares y pastizales de alta montaña (nivel 3),0.7,0.7,0.8,0.8,0.4,0.8,0.8,0.5,0.2,0.2,0.1
+321,"Herbazales, juncales y prados húmedos (nivel 3)",0.6,0.6,0.7,0.6,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+322,"Herbazales, juncales y prados húmedos con arbolado aislado (nivel 3)",0.6,0.6,0.7,0.6,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+331,Espartales y cerrillares áridos y semiáridos (nivel 3),0.8,0.8,0.8,0.9,0.7,0.4,0.4,0.2,0.2,0.2,0.1
+332,Espartales y cerrillares áridos y semiáridos con arbolado aislado (nivel 3),0.8,0.8,0.8,0.9,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+421,Bosques dunares,0.8,0.8,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+422,Cultivos forestales sobre dunas,0.8,0.8,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+424,Matorrales dunares,0.8,0.8,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+441,"Marismas, lagunas costeras; salinas tradicionales y albuferas",0.7,0.7,0.6,0.6,0.7,0.3,0.3,0.2,0.1,0.1,0.1
+521,Bosques en galería,0.7,0.7,0.6,0.6,0.7,0.5,0.5,0.2,0.2,0.2,0.1
+522,Matorrales fluviales,0.7,0.7,0.7,0.7,0.7,0.5,0.5,0.2,0.2,0.2,0.1
+523,"Cañaverales, juncales; carrizales y eneales",0.6,0.7,0.5,0.5,0.7,0.3,0.3,0.2,0.1,0.1,0.1
+721,Olivar,0.7,0.7,0.8,0.7,0.7,0.4,0.4,0.2,0.2,0.2,0.1
+724,Frutal de cáscara,0.6,0.6,0.6,0.6,0.7,0.3,0.3,0.2,0.2,0.2,0.1
+726,Otros cultivos leñosos (nivel 3),0.6,0.6,0.6,0.6,0.7,0.4,0.4,0.2,0.2,0.2,0.1
+731,Cultivos herbáceos distinto de arroz (nivel 3),0.2,0.2,0.3,0.2,0.7,0.2,0.2,0.2,0.1,0.1,0.1
+999,Isla,0.3,0.3,0.3,0.3,0.7,0.3,0.3,0.2,0.2,0.2,0.1
+1111,Formaciones adehesadas de quercíneas o acebuches,0.9,0.9,0.9,0.8,0.7,0.7,0.6,0.2,0.2,0.2,0.1
+1121,Otros pastizales arbolados (nivel 4),0.7,0.7,0.7,0.7,0.5,0.6,0.6,0.4,0.2,0.2,0.1
+1210,Otros bosques mediterráneos esclerófilos de arbolado denso,0.7,0.7,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+1211,Alcornocales de arbolado denso,0.7,0.7,0.7,0.7,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+1212,Encinares de arbolado denso,0.7,0.7,0.7,0.7,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+1213,Acebuchares y algarrobales de arbolado denso,0.7,0.7,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+1214,Formaciones arboladas en zonas áridas,0.7,0.7,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+1220,Otros bosques mediterráneos esclerófilos de arbolado disperso,0.7,0.7,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+1221,Alcornocales de arbolado disperso,0.7,0.7,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+1222,Encinares de arbolado disperso,0.7,0.7,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+1223,Acebuchares y algarrobales de arbolado disperso,0.8,0.8,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+1311,Quejigares de arbolado denso,0.7,0.7,0.7,0.7,0.7,0.5,0.5,0.2,0.2,0.2,0.1
+1312,Melojares de arbolado denso,0.7,0.7,0.7,0.7,0.7,0.5,0.5,0.2,0.2,0.2,0.1
+1313,Acerales,0.7,0.7,0.8,0.8,0.5,0.6,0.6,0.4,0.2,0.2,0.1
+1314,Avellanedas,0.7,0.7,0.7,0.7,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+1315,Castañares de arbolado denso,0.7,0.7,0.7,0.7,0.6,0.6,0.6,0.3,0.2,0.2,0.1
+1321,Quejigares de arbolado disperso,0.7,0.7,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+1322,Melojares de arbolado disperso,0.7,0.7,0.7,0.7,0.7,0.5,0.5,0.2,0.2,0.2,0.1
+1325,Castañares de arbolado disperso,0.7,0.7,0.7,0.7,0.6,0.6,0.6,0.3,0.2,0.2,0.1
+1411,Pinares de alta montaña de arbolado denso,0.6,0.6,0.6,0.6,0.6,0.4,0.4,0.3,0.2,0.2,0.1
+1412,Pinares mediterráneos de arbolado denso,0.7,0.7,0.7,0.7,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+1413,Pinsapares de arbolado denso,0.6,0.6,0.6,0.6,0.6,0.4,0.4,0.3,0.2,0.2,0.1
+1414,Sabinares y enebrales termófilos densos con presencia de arbolado,0.7,0.7,0.7,0.7,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+1421,Pinares de alta montaña de arbolado disperso,0.7,0.7,0.7,0.7,0.5,0.6,0.6,0.4,0.2,0.2,0.1
+1422,Pinares mediterráneos de arbolado disperso,0.8,0.8,0.8,0.9,0.7,0.6,0.6,0.2,0.4,0.4,0.1
+1423,Pinsapares de arbolado disperso,0.7,0.7,0.7,0.7,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+1511,Plantaciones de chopos,0.6,0.6,0.6,0.6,0.7,0.3,0.3,0.2,0.1,0.1,0.1
+1512,Plantaciones de coníferas de arbolado denso en baja y media montaña,0.7,0.7,0.7,0.7,0.5,0.6,0.6,0.4,0.2,0.2,0.1
+1513,Plantaciones de eucaliptos de arbolado denso,0.6,0.6,0.5,0.5,0.7,0.3,0.3,0.2,0.1,0.1,0.1
+1514,Plantaciones de coníferas de arbolado denso en alta montaña,0.6,0.6,0.6,0.6,0.5,0.5,0.5,0.4,0.2,0.2,0.1
+1522,Plantaciones de coníferas de arbolado disperso en baja y media montaña,0.7,0.7,0.7,0.7,0.5,0.5,0.5,0.4,0.2,0.2,0.1
+1523,Plantaciones de eucaliptos de arbolado disperso,0.7,0.7,0.6,0.6,0.7,0.3,0.4,0.2,0.2,0.2,0.1
+1524,Plantaciones de coníferas de arbolado disperso en alta montaña,0.7,0.7,0.7,0.7,0.5,0.5,0.5,0.4,0.2,0.2,0.1
+2111,Matorrales de alta montaña,0.8,0.8,0.8,0.8,0.5,0.5,0.5,0.4,0.2,0.2,0.1
+2112,Enebrales y sabinares rastreros de alta montaña,0.7,0.7,0.7,0.7,0.5,0.5,0.5,0.4,0.2,0.2,0.1
+2113,Otros matorrales de alta montaña,0.7,0.7,0.7,0.7,0.5,0.5,0.5,0.4,0.2,0.2,0.1
+2121,Matorrales de alta montaña con arbolado aislado,0.7,0.7,0.7,0.7,0.5,0.5,0.5,0.4,0.2,0.2,0.1
+2122,Enebrales y sabinares rastreros de alta montaña con arbolado aislado,0.7,0.7,0.7,0.7,0.5,0.5,0.5,0.4,0.2,0.2,0.1
+2123,Otros matorrales de alta montaña con arbolado aislado,0.7,0.7,0.8,0.8,0.5,0.5,0.5,0.4,0.2,0.2,0.1
+2211,Brezales termófilos,0.8,0.8,0.8,0.8,0.4,0.6,0.6,0.4,0.2,0.2,0.2
+2212,Brezales higrófilos,0.8,0.8,0.8,0.8,0.4,0.6,0.6,0.4,0.2,0.2,0.2
+2213,Espinares y zarzales no riparios,0.8,0.8,0.7,0.7,0.4,0.8,0.8,0.5,0.2,0.2,0.1
+2214,Bojedas,0.7,0.7,0.6,0.6,0.5,0.6,0.6,0.4,0.2,0.2,0.1
+2215,Madroñales y otros matorrales nobles,0.9,0.9,0.5,0.5,0.2,0.5,0.5,0.2,0.9,0.9,0.6
+2216,Otros matorrales húmedos,0.7,0.7,0.8,0.8,0.6,0.6,0.6,0.3,0.2,0.2,0.1
+2221,Brezales termófilos con arbolado aislado,0.8,0.8,0.8,0.8,0.4,0.6,0.6,0.4,0.2,0.2,0.2
+2222,Brezales higrófilos con arbolado aislado,0.8,0.8,0.8,0.8,0.4,0.6,0.6,0.4,0.2,0.2,0.2
+2223,Espinares y zarzales no riparios con arbolado aislado,0.8,0.8,0.7,0.7,0.4,0.8,0.8,0.5,0.2,0.2,0.1
+2224,Bojedas con arbolado aislado,0.7,0.7,0.6,0.6,0.5,0.6,0.6,0.4,0.2,0.2,0.1
+2225,Madroñales y otros matorrales nobles con arbolado aislado,0.9,0.9,0.5,0.5,0.2,0.5,0.5,0.2,0.9,0.9,0.6
+2226,Otros matorrales húmedos con arbolado aislado,0.7,0.7,0.8,0.8,0.6,0.6,0.6,0.3,0.2,0.2,0.1
+2311,Arbustedas semiáridas (artales),0.7,0.7,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+2312,Tomillares áridos,0.9,0.9,0.9,0.9,0.7,0.7,0.7,0.2,0.2,0.2,0.1
+2313,Vegetación gipsícola,0.8,0.8,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+2314,Nanomatorrales en costras de sal,0.7,0.7,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+2315,Matorrales halonitrófilos,0.7,0.7,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+2316,Otros matorrales áridos,0.7,0.7,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+2322,Tomillares áridos con arbolado aislado,0.9,0.9,0.9,0.9,0.7,0.7,0.7,0.2,0.2,0.2,0.1
+2326,Otros matorrales áridos con arbolado aislado,0.8,0.8,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+2411,Sabinares y enebrales termófilos,0.7,0.7,0.6,0.6,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+2412,"Lentiscares, coscojares y acebuchares arbustivos",0.7,0.7,0.6,0.6,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+2413,Retamares y escobonales,0.8,0.8,0.8,0.8,0.6,0.6,0.6,0.2,0.6,0.6,0.2
+2414,"Jarales, jaguarzales; romerales y aulagares",0.9,0.9,0.9,0.9,0.6,0.7,0.7,0.2,0.5,0.5,0.2
+2415,Tomillares y matorrales camefíticos,0.9,0.9,0.9,0.9,0.7,0.7,0.7,0.2,0.2,0.2,0.1
+2416,Matorrales almohadillados,0.8,0.8,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+2417,Otros matorrales esclerófilos,0.8,0.8,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+2421,Sabinares y enebrales termófilos con arbolado aislado,0.8,0.8,0.7,0.6,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+2422,"Lentiscares, coscojares y acebuchares arbustivos con arbolado aislado",0.7,0.7,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+2423,Retamares y escobonales con arbolado aislado,0.8,0.8,0.8,0.8,0.6,0.6,0.6,0.2,0.6,0.6,0.2
+2424,"Jarales, jaguarzales; romerales y aulagares con arbolado aislado",0.9,0.9,0.9,0.9,0.6,0.7,0.7,0.2,0.5,0.5,0.2
+2425,Tomillares y matorrales camefíticos con arbolado aislado,0.9,0.9,0.9,0.9,0.7,0.7,0.7,0.2,0.2,0.2,0.1
+2426,Matorrales almohadillados con arbolado aislado,0.8,0.8,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+2427,Otros matorrales esclerófilos con arbolado aislado,0.8,0.8,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+3111,Lastonares y pastizales de alta montaña (nivel 4),0.7,0.7,0.8,0.8,0.4,0.8,0.8,0.5,0.2,0.2,0.1
+3112,Otros pastizales de alta montaña,0.7,0.7,0.8,0.8,0.4,0.8,0.8,0.5,0.2,0.2,0.1
+3121,Lastonares y pastizales de alta montaña con arbolado aislado (nivel 4),0.7,0.7,0.8,0.8,0.4,0.8,0.8,0.5,0.2,0.2,0.1
+3122,Otros pastizales de alta montaña con arbolado aislado,0.7,0.7,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+3211,"Herbazales, juncales y prados húmedos (nivel 4)",0.6,0.6,0.7,0.6,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+3212,Otros pastizales húmedos,0.6,0.6,0.7,0.6,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+3221,"Herbazales, juncales y prados húmedos con arbolado aislado (nivel 4)",0.6,0.6,0.7,0.6,0.6,0.6,0.6,0.3,0.2,0.2,0.1
+3222,Otros pastizales húmedos con arbolado aislado,0.6,0.6,0.7,0.6,0.6,0.6,0.6,0.3,0.2,0.2,0.1
+3311,Espartales y cerrillares áridos y semiáridos (nivel 4),0.7,0.7,0.8,0.8,0.7,0.4,0.4,0.2,0.2,0.2,0.1
+3312,Otros pastizales áridos,0.7,0.7,0.6,0.6,0.7,0.4,0.4,0.2,0.2,0.2,0.1
+3321,Espartales y cerrillares áridos y semiáridos con arbolado aislado (nivel 4),0.7,0.7,0.6,0.6,0.7,0.4,0.4,0.2,0.2,0.2,0.1
+3322,Otros pastizales áridos con arbolado aislado,0.7,0.7,0.6,0.6,0.7,0.4,0.4,0.2,0.2,0.2,0.1
+3411,Otros pastizales (nivel 4),0.7,0.7,0.6,0.6,0.7,0.4,0.4,0.2,0.2,0.2,0.1
+3421,Otros pastizales con arbolado aislado,0.7,0.7,0.6,0.6,0.7,0.4,0.4,0.2,0.2,0.2,0.1
+4211,Dunas con bosques de alcornoques o de acebuches,0.7,0.7,0.8,0.8,0.7,0.5,0.5,0.2,0.2,0.2,0.1
+4212,Dunas con bosques de pinos,0.7,0.7,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+4221,Dunas con plantaciones de pinos,0.7,0.7,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+4222,Dunas con plantaciones de eucaliptos,0.7,0.7,0.7,0.7,0.7,0.4,0.4,0.2,0.1,0.1,0.1
+4231,Dunas con matorrales y arbolado disperso,0.8,0.8,0.7,0.7,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+4241,Dunas con brezales,0.8,0.8,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+4242,Dunas con enebros,0.8,0.8,0.7,0.7,0.7,0.5,0.5,0.2,0.2,0.2,0.1
+4243,Dunas con artos,0.8,0.8,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+4244,Dunas con tomillares y matorrales esclerófilos,0.8,0.8,0.9,0.9,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+4251,Depresiones intradunares,0.7,0.7,0.7,0.7,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+4252,Lagunas en dunas,0.7,0.7,0.8,0.8,0.6,0.7,0.7,0.3,0.2,0.2,0.1
+4253,Turberas sobre dunas,0.5,0.5,0.7,0.7,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+4254,Dunas con formaciones ribereñas,0.7,0.7,0.7,0.7,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+4311,"Playas, dunas y arenales costeros con escasa vegetación (nivel 4)",0.6,0.6,0.5,0.5,0.7,0.3,0.3,0.2,0.1,0.1,0.1
+4321,Acantilados (nivel 4),0.6,0.6,0.5,0.5,0.7,0.3,0.3,0.2,0.1,0.1,0.1
+4411,Marismas,0.4,0.4,0.4,0.4,0.7,0.2,0.2,0.2,0.2,0.2,0.1
+4412,"Lagunas costeras, salinas tradicionales y albuferas",0,0,0,0,0.7,0,0,0.2,0,0,0.1
+4422,Estuarios y llanos marinos fangosos o arenosos,0,0,0,0,0.7,0,0,0.2,0,0,0.1
+4423,Arrecifes,0,0,0,0,0.7,0,0,0.2,0,0,0.1
+4424,Fondo arenoso,0,0,0,0,0.7,0,0,0.2,0,0,0.1
+4425,Bahía,0,0,0,0,0.7,0,0,0.2,0,0,0.1
+4426,"Canto, bolo, bloque o encostramiento",0,0,0,0,0.7,0,0,0.2,0,0,0.1
+4427,Cueva marina,0,0,0,0,0.7,0,0,0.2,0,0,0.1
+4428,Estuario,0,0,0,0,0.7,0,0,0.2,0,0,0.1
+4429,Fondo fangoso,0,0,0,0,0.7,0,0,0.2,0,0,0.1
+4430,Praderas de fanerógamas marinas,0,0,0,0,0.7,0,0,0.2,0,0,0.1
+4431,Grava,0,0,0,0,0.7,0,0,0.2,0,0,0.1
+4432,Fondo rocoso,0,0,0,0,0.7,0,0,0.2,0,0,0.1
+5111,Turberas (nivel 4),0.3,0.3,0.6,0.6,0.5,0.4,0.4,0.4,0.2,0.2,0.1
+5121,Formaciones tobáceas (nivel 4),0.3,0.3,0.6,0.6,0.5,0.4,0.4,0.4,0.2,0.2,0.1
+5131,Lagunas continentales (nivel 4),0,0,0,0,0.7,0,0,0.2,0,0,0.1
+5211,Fresnedas,0.6,0.6,0.5,0.5,0.6,0.4,0.4,0.3,0.2,0.2,0.1
+5212,Alisedas,0.6,0.6,0.5,0.5,0.6,0.4,0.4,0.3,0.2,0.2,0.1
+5213,Olmedas,0.6,0.6,0.5,0.5,0.6,0.4,0.4,0.3,0.2,0.2,0.1
+5214,"Alamedas, choperas y saucedas arbóreas",0.6,0.6,0.5,0.5,0.6,0.4,0.4,0.3,0.2,0.2,0.1
+5215,Otros bosques en galería,0.6,0.6,0.5,0.5,0.6,0.4,0.4,0.3,0.2,0.2,0.1
+5221,Saucedas arbustivas,0.6,0.6,0.5,0.5,0.6,0.4,0.4,0.3,0.2,0.2,0.1
+5222,Ojaranzales,0.6,0.6,0.6,0.6,0.6,0.4,0.4,0.3,0.2,0.2,0.1
+5223,"Adelfares, tarajales y zarzales",0.8,0.8,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+5224,Tamujares,0.8,0.8,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+5225,Otras formaciones arbustivas riparias,0.8,0.8,0.7,0.7,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+5231,Cañaverales,0.6,0.6,0.6,0.6,0.7,0.4,0.4,0.2,0.1,0.1,0.1
+5232,"Juncales, carrizales y eneales",0.6,0.6,0.6,0.6,0.7,0.4,0.4,0.2,0.1,0.1,0.1
+5241,Cauces con escasa o nula vegetación y ramblas (nivel 4),0.6,0.6,0.6,0.6,0.7,0.4,0.4,0.2,0.1,0.1,0.1
+5311,Salinas,0,0,0,0,0.7,0,0,0.2,0,0,0.1
+5312,Piscifactorías/acuicultura,0,0,0,0,0.7,0,0,0.2,0,0,0.1
+5321,"Ríos canalizados, embalses; balsas de riego y láminas de agua artificiales",0,0,0,0,0.7,0,0,0.2,0,0,0.1
+6111,"Roquedos, riscos; canchales y pedregales de alta montaña (nivel 4)",0.2,0.2,0.2,0.2,0.7,0.2,0.2,0.2,0.2,0.2,0.1
+6121,"Roquedos, riscos; canchales y pedregales (nivel 4)",0.2,0.2,0.2,0.2,0.7,0.2,0.2,0.2,0.2,0.2,0.1
+6211,"Cuevas, simas; galerías y cavidades (nivel 4)",0,0,0,0,0.7,0,0,0.2,0,0,0.1
+6311,Cortafuegos (nivel 4),0.7,0.7,0.8,0.7,0.6,0.6,0.6,0.3,0.2,0.2,0.1
+6321,Áreas degradadas (nivel 4),0.7,0.7,0.8,0.7,0.6,0.6,0.6,0.3,0.2,0.2,0.1
+6331,Suelo desnudo (nivel 4),0.6,0.6,0.6,0.6,0.7,0.4,0.4,0.2,0.2,0.2,0.1
+6341,Zonas áridas con escasa vegetación,0.6,0.6,0.6,0.6,0.7,0.4,0.4,0.2,0.2,0.2,0.1
+6342,Zonas quemadas,0.7,0.7,0.7,0.7,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+7111,Mosaicos agrarios de valor ecológico (nivel 4),0.7,0.7,0.8,0.8,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+7211,Olivares en regadío,0.2,0.2,0.2,0.2,0.7,0.2,0.2,0.2,0.2,0.2,0.1
+7212,Olivares en secano,0.7,0.7,0.7,0.7,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+7221,Frutales cítricos,0.3,0.3,0.3,0.3,0.7,0.2,0.2,0.2,0.2,0.2,0.1
+7231,Frutales tropicales,0.4,0.4,0.4,0.4,0.7,0.2,0.2,0.2,0.2,0.2,0.1
+7241,Frutal de cáscara en regadío,0.2,0.2,0.2,0.2,0.7,0.2,0.2,0.2,0.2,0.2,0.1
+7242,Frutal de cáscara en secano,0.3,0.3,0.3,0.3,0.7,0.2,0.2,0.2,0.2,0.2,0.1
+7251,Viñedos,0.6,0.6,0.6,0.6,0.7,0.4,0.4,0.2,0.2,0.2,0.1
+7261,Frutales de hueso en regadío,0.4,0.4,0.3,0.3,0.7,0.2,0.2,0.2,0.2,0.2,0.1
+7262,Frutales de pepita en regadío,0.4,0.4,0.5,0.5,0.7,0.2,0.2,0.2,0.2,0.2,0.1
+7263,Otros cultivos leñosos (nivel 4),0.4,0.4,0.3,0.3,0.7,0.2,0.2,0.2,0.2,0.2,0.1
+7264,Frutales de hueso en secano,0.4,0.4,0.3,0.3,0.7,0.2,0.2,0.2,0.2,0.2,0.1
+7265,Frutales de pepita en secano,0.4,0.4,0.5,0.5,0.7,0.2,0.2,0.2,0.2,0.2,0.1
+7266,Otros cultivos leñosos en secano,0.4,0.4,0.4,0.4,0.7,0.2,0.2,0.2,0.2,0.2,0.1
+7311,Cultivos herbáceos distintos de arroz en regadío,0.2,0.2,0.1,0.1,0.7,0.1,0.1,0.2,0.1,0.1,0.1
+7312,Cultivos herbáceos distintos de arroz en secano,0.1,0.1,0.1,0.1,0.7,0.1,0.1,0.2,0.1,0.1,0.1
+7321,Arrozales (nivel 4),0.1,0.1,0.1,0.1,0.7,0.1,0.1,0.2,0.1,0.1,0.1
+7411,Cultivos bajo plástico (nivel 4),0.2,0.2,0.2,0.2,0.7,0.1,0.1,0.2,0.1,0.1,0.1
+8111,Áreas verdes en zonas urbanas e industriales (nivel 4),0.7,0.7,0.7,0.7,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+8311,Áreas urbanas e industriales (nivel 4),0.2,0.2,0.2,0.2,0.7,0.2,0.2,0.2,0.2,0.2,0.1
+9111,Asociaciones de cultivos y vegetación natural (nivel 4),0.7,0.7,0.8,0.7,0.7,0.6,0.6,0.2,0.2,0.2,0.1
+8211,Vías de comunicación (nivel 4),0.3,0.3,0.3,0.3,0.7,0.2,0.2,0.2,0.2,0.2,0.1

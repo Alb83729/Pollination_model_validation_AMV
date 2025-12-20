@@ -1,0 +1,45 @@
+code,description,nesting_suitability_small,nesting_suitability_big,foraging_suitability_small_season_1,foraging_suitability_big_season_1,fl_resource_weight_season_1,foraging_suitability_small_season_2,foraging_suitability_big_season_2,fl_resource_weight_season_2,foraging_suitability_small_season_3,foraging_suitability_big_season_3,fl_resource_weight_season_3,foraging_suitability_small_season_4,foraging_suitability_big_season_4,fl_resource_weight_season_4
+111,continuous urban fabric,0.06,0.06,0,0,0.1,0.05,0.05,0.6,0.05,0.05,0.3,0.05,0.05,0
+112,discontinuous urban fabric,0.08,0.08,0,0,0.1,0.1,0.1,0.6,0.05,0.05,0.3,0.05,0.05,0
+121,industrial or commercial units,0.08,0.08,0,0,0.1,0.05,0.05,0.6,0.05,0.05,0.3,0.05,0.05,0
+122,road and rail networks and associated land,0.16,0.16,0.1,0.1,0.1,0.4,0.4,0.6,0.2,0.2,0.3,0.05,0.05,0
+123,port areas,0.06,0.06,0,0,0.1,0.05,0.05,0.6,0.05,0.05,0.3,0.05,0.05,0
+124,airports,0.16,0.16,0.05,0.05,0.1,0.3,0.3,0.6,0.1,0.1,0.3,0.05,0.05,0
+131,mineral extraction sites,0.12,0.12,0,0,0.1,0.1,0.1,0.6,0.05,0.05,0.3,0.05,0.05,0
+132,dump sites,0.12,0.12,0,0,0.1,0.2,0.2,0.6,0.1,0.1,0.3,0.05,0.05,0
+133,construction sites,0.12,0.12,0,0,0.1,0.1,0.1,0.6,0.05,0.05,0.3,0.05,0.05,0
+141,green urban areas,0.22,0.22,0.2,0.2,0.1,0.4,0.4,0.6,0.4,0.4,0.3,0.05,0.05,0
+142,sport and leisure facilities,0.08,0.08,0,0,0.1,0.3,0.3,0.6,0.25,0.25,0.3,0.05,0.05,0
+211,non-irrigated arable land,0.12,0.12,0.1,0.1,0.1,0.1,0.1,0.6,0.05,0.05,0.3,0.05,0.05,0
+212,permanently irrigated land,0.12,0.12,0.1,0.1,0.1,0.2,0.2,0.6,0.1,0.1,0.3,0.05,0.05,0
+213,rice fields,0.06,0.06,0.1,0.1,0.1,0.1,0.1,0.6,0.1,0.1,0.3,0.05,0.05,0
+221,vineyards,0.36,0.36,0.1,0.1,0.1,0.4,0.4,0.6,0.3,0.3,0.3,0.3,0.3,0
+222,fruit trees and berry plantations,0.36,0.36,0.2,0.2,0.1,0.7,0.7,0.6,0.4,0.4,0.3,0.3,0.3,0
+223,olive groves,0.36,0.36,0.2,0.2,0.1,0.5,0.5,0.6,0.4,0.4,0.3,0.3,0.3,0
+231,pastures,0.18,0.18,0.1,0.1,0.1,0.4,0.4,0.6,0.1,0.1,0.3,0.2,0.2,0
+241,annual crops associated with permanent crops,0.16,0.16,0.2,0.2,0.1,0.5,0.5,0.6,0.5,0.5,0.3,0.5,0.5,0
+242,complex cultivation patterns,0.16,0.16,0.1,0.1,0.1,0.4,0.4,0.6,0.4,0.4,0.3,0.4,0.4,0
+243,land principally occupied by agriculture with significant areas of natural vegetation,0.42,0.42,0.3,0.3,0.1,0.75,0.75,0.6,0.5,0.5,0.3,0.3,0.3,0
+244,agro-forestry areas,0.6,0.6,0.2,0.2,0.1,0.5,0.5,0.6,0.4,0.4,0.3,0.3,0.3,0
+311,broad-leaved forest,0.48,0.48,0.2,0.2,0.1,0.8,0.8,0.6,0.3,0.3,0.3,0.1,0.1,0
+312,coniferous forest,0.48,0.48,0.3,0.3,0.1,0.9,0.9,0.6,0.5,0.5,0.3,0.3,0.3,0
+313,mixed forest,0.48,0.48,0.3,0.3,0.1,0.8,0.8,0.6,0.6,0.6,0.3,0.3,0.3,0
+321,natural grassland,0.48,0.48,0.4,0.4,0.1,1,1,0.6,0.5,0.5,0.3,0.1,0.1,0
+322,moors and heathland,0.54,0.54,0.4,0.4,0.1,1,1,0.6,0.5,0.5,0.3,0.1,0.1,0
+323,sclerophyllous vegetation,0.6,0.6,0.4,0.4,0.1,1,1,0.6,0.5,0.5,0.3,0.1,0.1,0
+324,transitional woodland-shrub,0.6,0.6,0.4,0.4,0.1,1,1,0.6,0.5,0.5,0.3,0.1,0.1,0
+331,beaches dunes sands,0.14,0.14,0.3,0.3,0.1,0.5,0.5,0.6,0.2,0.2,0.3,0.1,0.1,0
+332,bare rocks,0,0,0,0,0.1,0,0,0.6,0,0,0.3,0,0,0
+333,sparsely vegetated areas,0.42,0.42,0.1,0.1,0.1,0.4,0.4,0.6,0.2,0.2,0.3,0.1,0.1,0
+334,burnt areas,0.22,0.22,0,0,0.1,0.2,0.2,0.6,0.2,0.2,0.3,0.1,0.1,0
+335,glaciers and perpetual snow,0,0,0,0,0.1,0,0,0.6,0,0,0.3,0,0,0
+411,inland marshes,0.18,0.18,0,0,0.1,0.2,0.2,0.6,0.2,0.2,0.3,0.1,0.1,0
+412,peat bogs,0.18,0.18,0,0,0.1,0.2,0.2,0.6,0.2,0.2,0.3,0.1,0.1,0
+421,salt marshes,0.18,0.18,0.05,0.05,0.1,0.2,0.2,0.6,0.2,0.2,0.3,0.1,0.1,0
+422,salines,0.18,0.18,0.1,0.1,0.1,0.2,0.2,0.6,0.2,0.2,0.3,0.1,0.1,0
+423,intertidal flats,0.18,0.18,0.1,0.1,0.1,0.2,0.2,0.6,0.2,0.2,0.3,0.1,0.1,0
+511,water courses,0,0,0,0,0.1,0,0,0.6,0,0,0.3,0,0,0
+512,water bodies,0,0,0,0,0.1,0,0,0.6,0,0,0.3,0,0,0
+521,coastal lagoons,0,0,0,0,0.1,0,0,0.6,0,0,0.3,0,0,0
+522,estuaries,0,0,0,0,0.1,0,0,0.6,0,0,0.3,0,0,0
+523,sea and ocean,0,0,0,0,0.1,0,0,0.6,0,0,0.3,0,0,0

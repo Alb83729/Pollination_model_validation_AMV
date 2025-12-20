@@ -1,0 +1,197 @@
+code,description,nesting_suitability_small,nesting_suitability_big,foraging_suitability_small_season_1,foraging_suitability_big_season_1,fl_resource_weight_season_1,foraging_suitability_small_season_2,foraging_suitability_big_season_2,fl_resource_weight_season_2,foraging_suitability_small_season_3,foraging_suitability_big_season_3,fl_resource_weight_season_3
+111,Formaciones adehesadas de quercíneas y otras frondosas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+121,Bosques mediterráneos esclerófilos densos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+122,Bosques mediterráneos esclerófilos dispersos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+131,Bosques caducifolios densos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+132,Bosques caducifolios dispersos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+141,Bosques de coníferas densas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+142,Bosques de coníferas dispersas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+151,Cultivos forestales y otras plantaciones arbóreas densas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+152,Cultivos forestales y otras plantaciones arbóreas dispersas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+221,Matorral húmedo (nivel 3),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+222,Matorral húmedo con arbolado aislado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+231,Matorral árido (nivel 3),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+232,Matorral árido con arbolado aislado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+241,Matorral esclerófilo (nivel 3),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+242,Matorral esclerófilo con arbolado aislado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+311,Lastonares y pastizales de alta montaña (nivel 3),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+321,"Herbazales, juncales y prados húmedos (nivel 3)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+322,"Herbazales, juncales y prados húmedos con arbolado aislado (nivel 3)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+331,Espartales y cerrillares áridos y semiáridos (nivel 3),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+332,Espartales y cerrillares áridos y semiáridos con arbolado aislado (nivel 3),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+421,Bosques dunares,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+422,Cultivos forestales sobre dunas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+424,Matorrales dunares,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+441,"Marismas, lagunas costeras; salinas tradicionales y albuferas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+521,Bosques en galería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+522,Matorrales fluviales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+523,"Cañaverales, juncales; carrizales y eneales",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+721,Olivar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+724,Frutal de cáscara,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+726,Otros cultivos leñosos (nivel 3),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+731,Cultivos herbáceos distinto de arroz (nivel 3),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+999,Isla,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1111,Formaciones adehesadas de quercíneas o acebuches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1121,Otros pastizales arbolados (nivel 4),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1210,Otros bosques mediterráneos esclerófilos de arbolado denso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1211,Alcornocales de arbolado denso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1212,Encinares de arbolado denso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1213,Acebuchares y algarrobales de arbolado denso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1214,Formaciones arboladas en zonas áridas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1220,Otros bosques mediterráneos esclerófilos de arbolado disperso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1221,Alcornocales de arbolado disperso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1222,Encinares de arbolado disperso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1223,Acebuchares y algarrobales de arbolado disperso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1311,Quejigares de arbolado denso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1312,Melojares de arbolado denso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1313,Acerales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1314,Avellanedas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1315,Castañares de arbolado denso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1321,Quejigares de arbolado disperso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1322,Melojares de arbolado disperso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1325,Castañares de arbolado disperso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1411,Pinares de alta montaña de arbolado denso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1412,Pinares mediterráneos de arbolado denso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1413,Pinsapares de arbolado denso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1414,Sabinares y enebrales termófilos densos con presencia de arbolado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1421,Pinares de alta montaña de arbolado disperso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1422,Pinares mediterráneos de arbolado disperso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1423,Pinsapares de arbolado disperso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1511,Plantaciones de chopos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1512,Plantaciones de coníferas de arbolado denso en baja y media montaña,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1513,Plantaciones de eucaliptos de arbolado denso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1514,Plantaciones de coníferas de arbolado denso en alta montaña,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1522,Plantaciones de coníferas de arbolado disperso en baja y media montaña,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1523,Plantaciones de eucaliptos de arbolado disperso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1524,Plantaciones de coníferas de arbolado disperso en alta montaña,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2111,Matorrales de alta montaña,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2112,Enebrales y sabinares rastreros de alta montaña,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2113,Otros matorrales de alta montaña,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2121,Matorrales de alta montaña con arbolado aislado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2122,Enebrales y sabinares rastreros de alta montaña con arbolado aislado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2123,Otros matorrales de alta montaña con arbolado aislado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2211,Brezales termófilos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2212,Brezales higrófilos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2213,Espinares y zarzales no riparios,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2214,Bojedas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2215,Madroñales y otros matorrales nobles,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2216,Otros matorrales húmedos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2221,Brezales termófilos con arbolado aislado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2222,Brezales higrófilos con arbolado aislado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2223,Espinares y zarzales no riparios con arbolado aislado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2224,Bojedas con arbolado aislado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2225,Madroñales y otros matorrales nobles con arbolado aislado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2226,Otros matorrales húmedos con arbolado aislado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2311,Arbustedas semiáridas (artales),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2312,Tomillares áridos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2313,Vegetación gipsícola,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2314,Nanomatorrales en costras de sal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2315,Matorrales halonitrófilos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2316,Otros matorrales áridos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2322,Tomillares áridos con arbolado aislado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2326,Otros matorrales áridos con arbolado aislado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2411,Sabinares y enebrales termófilos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2412,"Lentiscares, coscojares y acebuchares arbustivos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2413,Retamares y escobonales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2414,"Jarales, jaguarzales; romerales y aulagares",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2415,Tomillares y matorrales camefíticos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2416,Matorrales almohadillados,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2417,Otros matorrales esclerófilos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2421,Sabinares y enebrales termófilos con arbolado aislado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2422,"Lentiscares, coscojares y acebuchares arbustivos con arbolado aislado",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2423,Retamares y escobonales con arbolado aislado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2424,"Jarales, jaguarzales; romerales y aulagares con arbolado aislado",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2425,Tomillares y matorrales camefíticos con arbolado aislado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2426,Matorrales almohadillados con arbolado aislado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2427,Otros matorrales esclerófilos con arbolado aislado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3111,Lastonares y pastizales de alta montaña (nivel 4),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3112,Otros pastizales de alta montaña,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3121,Lastonares y pastizales de alta montaña con arbolado aislado (nivel 4),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3122,Otros pastizales de alta montaña con arbolado aislado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3211,"Herbazales, juncales y prados húmedos (nivel 4)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3212,Otros pastizales húmedos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3221,"Herbazales, juncales y prados húmedos con arbolado aislado (nivel 4)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3222,Otros pastizales húmedos con arbolado aislado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3311,Espartales y cerrillares áridos y semiáridos (nivel 4),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3312,Otros pastizales áridos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3321,Espartales y cerrillares áridos y semiáridos con arbolado aislado (nivel 4),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3322,Otros pastizales áridos con arbolado aislado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3411,Otros pastizales (nivel 4),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3421,Otros pastizales con arbolado aislado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4211,Dunas con bosques de alcornoques o de acebuches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4212,Dunas con bosques de pinos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4221,Dunas con plantaciones de pinos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4222,Dunas con plantaciones de eucaliptos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4231,Dunas con matorrales y arbolado disperso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4241,Dunas con brezales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4242,Dunas con enebros,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4243,Dunas con artos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4244,Dunas con tomillares y matorrales esclerófilos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4251,Depresiones intradunares,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4252,Lagunas en dunas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4253,Turberas sobre dunas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4254,Dunas con formaciones ribereñas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4311,"Playas, dunas y arenales costeros con escasa vegetación (nivel 4)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4321,Acantilados (nivel 4),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4411,Marismas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4412,"Lagunas costeras, salinas tradicionales y albuferas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4422,Estuarios y llanos marinos fangosos o arenosos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4423,Arrecifes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4424,Fondo arenoso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4425,Bahía,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4426,"Canto, bolo, bloque o encostramiento",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4427,Cueva marina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4428,Estuario,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4429,Fondo fangoso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4430,Praderas de fanerógamas marinas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4431,Grava,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4432,Fondo rocoso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5111,Turberas (nivel 4),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5121,Formaciones tobáceas (nivel 4),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5131,Lagunas continentales (nivel 4),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5211,Fresnedas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5212,Alisedas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5213,Olmedas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5214,"Alamedas, choperas y saucedas arbóreas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5215,Otros bosques en galería,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5221,Saucedas arbustivas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5222,Ojaranzales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5223,"Adelfares, tarajales y zarzales",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5224,Tamujares,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5225,Otras formaciones arbustivas riparias,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5231,Cañaverales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5232,"Juncales, carrizales y eneales",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5241,Cauces con escasa o nula vegetación y ramblas (nivel 4),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5311,Salinas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5312,Piscifactorías/acuicultura,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5321,"Ríos canalizados, embalses; balsas de riego y láminas de agua artificiales",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6111,"Roquedos, riscos; canchales y pedregales de alta montaña (nivel 4)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6121,"Roquedos, riscos; canchales y pedregales (nivel 4)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6211,"Cuevas, simas; galerías y cavidades (nivel 4)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6311,Cortafuegos (nivel 4),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6321,Áreas degradadas (nivel 4),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6331,Suelo desnudo (nivel 4),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6341,Zonas áridas con escasa vegetación,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6342,Zonas quemadas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7111,Mosaicos agrarios de valor ecológico (nivel 4),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7211,Olivares en regadío,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7212,Olivares en secano,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7221,Frutales cítricos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7231,Frutales tropicales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7241,Frutal de cáscara en regadío,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7242,Frutal de cáscara en secano,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7251,Viñedos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7261,Frutales de hueso en regadío,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7262,Frutales de pepita en regadío,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7263,Otros cultivos leñosos (nivel 4),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7264,Frutales de hueso en secano,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7265,Frutales de pepita en secano,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7266,Otros cultivos leñosos en secano,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7311,Cultivos herbáceos distintos de arroz en regadío,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7312,Cultivos herbáceos distintos de arroz en secano,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7321,Arrozales (nivel 4),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7411,Cultivos bajo plástico (nivel 4),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8111,Áreas verdes en zonas urbanas e industriales (nivel 4),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8311,Áreas urbanas e industriales (nivel 4),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9111,Asociaciones de cultivos y vegetación natural (nivel 4),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8211,Vías de comunicación (nivel 4),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -112,3 +112,4 @@ slope <- coef(linear_model)[2]
 
 # Imprimir la pendiente en consola
 print(paste("Pendiente de la recta de regresión:", slope))
+

@@ -1,4 +1,4 @@
-Sitio,Ano,Latitud,Longitud,Habitat,Esfuerzo_min,Riqueza_abejas,Riqueza_diptera,Riqueza_otros,Abundancia_abejas,Abundancia_diptera,Abundancia_otros,Abundancia_x_min
+Sitio,Ano,latitude,longitude,Habitat,Esfuerzo_min,Riqueza_abejas,Riqueza_diptera,Riqueza_otros,Abundancia_abejas,Abundancia_diptera,Abundancia_otros,Abundancia_x_min
 ES1ACH01,2022,37.25022,-6.74492,Zona_natural,120,19,2,11,52,3,71,"0,433333333333333"
 ES1ALM01,2022,37.22261,-6.49975,Zona_natural,120,3,2,7,12,3,21,"0,1"
 ES1AZD01,2022,37.25774,-6.20492,Zona_natural,120,18,2,7,46,4,67,"0,383333333333333"

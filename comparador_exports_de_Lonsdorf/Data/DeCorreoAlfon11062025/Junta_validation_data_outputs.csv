@@ -1,4 +1,4 @@
-Sitio,Ano,Latitud.x,Longitud.x,Habitat,Esfuerzo_m2,Esfuerzo_min,Riqueza_abejas,Riqueza_diptera,Riqueza_otros,Abundancia_abejas,Abundancia_diptera,Abundancia_otros,Abundancia_x_min,BayRidge,SVR,GB,Lonsdorf_big,Lonsdorf_small
+Sitio,Ano,latitude,longitude,Habitat,Esfuerzo_m2,Esfuerzo_min,Riqueza_abejas,Riqueza_diptera,Riqueza_otros,Abundancia_abejas,Abundancia_diptera,Abundancia_otros,Abundancia_x_min,BayRidge,SVR,GB,Lonsdorf_big,Lonsdorf_small
 ES1ACH01,2022,37.25022,-6.74492,Zona_natural,300,120,19,2,11,52,3,71,"0,433333333333333",-3.2564386739141784,-2.3750276719785166,-3.0367058133996534,0.17786260245658614,0.08790338997136249
 ES1ALM01,2022,37.22261,-6.49975,Zona_natural,300,120,3,2,7,12,3,21,"0,1",-3.01298185790219,-2.37720100882925,-2.6293363119425988,0.24383599750271268,0.1447422595664073
 ES1AZD01,2022,37.25774,-6.20492,Zona_natural,300,120,18,2,7,46,4,67,"0,383333333333333",-2.980330730662402,-2.3823678408436715,-2.6293363119425988,0.38564696589918845,0.22843993862084191

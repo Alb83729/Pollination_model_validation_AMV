@@ -362,3 +362,4 @@ ggplot(data = HF_pixel_big)+
   geom_tile(aes(x = x, y = y, fill = HF_pixel))+
   theme_bw()+
   coord_equal()
+
